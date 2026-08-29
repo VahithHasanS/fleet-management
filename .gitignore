@@ -1,0 +1,25 @@
+# Node
+node_modules/
+dist/
+coverage/
+*.log
+
+# Flutter/Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.iml
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Env / secrets
+.env
+*.local
+
+# Mongo/Redis local dumps
+dump/
